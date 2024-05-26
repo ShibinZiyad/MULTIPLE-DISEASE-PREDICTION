@@ -3,3 +3,4 @@ pickle-mixin==1.0.2
 streamlit==1.32.2
 streamlit-option-menu==0.3.12
 scikit-learn==1.4.1.post1
+plotly==5.20.0
